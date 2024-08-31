@@ -1,0 +1,5 @@
+Excelente trabajo muy buen uso de HTML y de CSS
+recuerda que hay mas selectores usar los selectores de clase te puede ayudar a reusarlos mas
+
+Nota: 5
+
